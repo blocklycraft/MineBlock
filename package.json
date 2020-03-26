@@ -10,7 +10,6 @@
 		"Other"
 	],
 	"activationEvents": [
-		"onLanguage:mineblock",
 		"*"
 	],
 	"main": "./out/extension.js",
